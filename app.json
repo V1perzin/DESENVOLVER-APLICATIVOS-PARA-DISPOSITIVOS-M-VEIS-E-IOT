@@ -1,0 +1,32 @@
+{
+  "expo": {
+    "name": "EntregaFase1",
+    "slug": "entrega-fase1-sdk51-fix",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/assets/Icon tax.jpg",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#0b1220"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/assets/Icon tax.jpg",
+        "backgroundColor": "#0b1220"
+      }
+    },
+    "web": {
+      "bundler": "metro"
+    }
+  }
+}

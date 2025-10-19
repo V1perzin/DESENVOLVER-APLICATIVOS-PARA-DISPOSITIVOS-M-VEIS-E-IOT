@@ -8,3 +8,5 @@ Instalar e Rodar
 npm install
 
 npx expo start
+
+Baixa os pacotes .expo e node_modules

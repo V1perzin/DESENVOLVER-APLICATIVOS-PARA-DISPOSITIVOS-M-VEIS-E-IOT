@@ -5,5 +5,5 @@ Versão 0.1
 
 Instalar e Rodar
 
-npm install
+npm install/n
 npx expo start
